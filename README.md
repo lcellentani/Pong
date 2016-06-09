@@ -1,2 +1,2 @@
 # Pong
-Unity version of a Pong clone assembled to teach studends the basis of work in Unity.
+Unity version of a Pong clone assembled to teach students the basis of working in Unity.
